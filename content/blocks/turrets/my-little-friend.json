@@ -3,7 +3,7 @@
   "name": "My Little Friend",
   "description": "Doom Ray but Shotgun",
   "size": 1,
-  "health": 10000,
+  "health": 2147483647,
   "inaccuracy": 0,
   "range": 10000,
   "reloadTime": 0.1,
