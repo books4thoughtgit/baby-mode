@@ -1,1 +1,21 @@
-h
+{
+  "type": "Drill",
+  "name": "Quarry",
+  "description": "High yield drill that mines a hundred less than a second, just costs a single copper ingot.",
+  "health": 2147483647,
+  "size": 2,
+  "tier": 10,
+  "drillTime": 55,
+  "rotateSpeed": 3.6,
+  "itemCapacity": 2147483647,
+  "requirements": [
+    "copper/1"
+  ],
+  "category": "production",
+  "research": {
+    "parent": "lazer-drill",
+    "requirements": [
+      "copper/1"
+    ]
+  }
+}
