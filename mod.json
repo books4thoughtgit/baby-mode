@@ -1,0 +1,8 @@
+{
+  "name": "babymode",
+  "displayName": "Baby Mode",
+  "author": "aerialasf",
+  "description": "Not only it makes you sandbox, it doesn't actually make you sandbox. It makes you editor gamemode which is more powerful than sandbox and gives you a free turret that absoulutely destroys anything.\nAlso drill that mines probably more than 50 items per second.",
+  "version": 1,
+  "minGameVersion": 136
+}
