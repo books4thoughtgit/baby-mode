@@ -13,9 +13,9 @@
   ],
   "category": "production",
   "research": {
-    "parent": "lazer-drill",
+    "parent": "plasma-bore",
     "requirements": [
-      "copper/1"
+      "beryllium/1"
     ]
   }
 }
