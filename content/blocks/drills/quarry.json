@@ -11,5 +11,11 @@
   "requirements": [
     "copper/1"
   ],
-  "category": "production"
+  "category": "production",
+  "research": {
+    "parent": "mechanical-drill",
+    "requirements": [
+      "copper/1"
+    ]
+  }
 }
