@@ -1,0 +1,31 @@
+{
+  "type": "PowerTurret",
+  "name": "My Little Friend",
+  "description": "Doom Ray but Shotgun",
+  "size": 1,
+  "health": 2147483647,
+  "inaccuracy": 0,
+  "range": 10000,
+  "reloadTime": 0.1,
+  "targetGround": true,
+  "targetAir": true,
+  "rotateSpeed": 10000,
+  "recoilAmount": 0,
+  "powerUse": 1,
+  "shootEffect": "lightning",
+  "shootType": {
+    "type": "BasicBulletType",
+    "speed": 10000,
+    "damage": 10000
+  },
+  "requirements": [
+    "copper/1"
+  ],
+  "category": "turret",
+  "research": {
+     "parent": "breach",
+     "requirements": [
+        "beryllium/1"
+     ]
+  }
+}
