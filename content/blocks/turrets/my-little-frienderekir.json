@@ -19,7 +19,7 @@
     "damage": 1000000
   },
   "requirements": [
-    "copper/1"
+    "beryllium/1"
   ],
   "category": "turret",
   "research": {
