@@ -5,7 +5,7 @@
   "health": 2147483647,
   "size": 2,
   "tier": 10,
-  "drillTime": 55,
+  "drillTime": 25,
   "rotateSpeed": 3.6,
   "itemCapacity": 2147483647,
   "requirements": [
