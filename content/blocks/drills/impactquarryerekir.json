@@ -1,3 +1,24 @@
 {
-  
+  "type": "BurstDrill",
+  "name": "Impact Quarry",
+  "description": "Super Fast burst drill that resembles the drill version of a sonic boom.",
+  "health": 2147483647,
+  "size": 3,
+  "tier": 10,
+  "drillTime": 10,
+  "rotateSpeed": 3.6,
+  "itemCapacity": 2147483647,
+  "requirements": [
+    "beryllium/1"
+  ],
+  "arrowColor": "ffffff",
+  "glowColor": "ffffff",
+  "drawSpinSprite": false,
+  "category": "production",
+  "research": {
+    "parent": "plasma-bore",
+    "requirements": [
+      "beryllium/1"
+    ]
+  }
 }
