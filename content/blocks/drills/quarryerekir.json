@@ -10,7 +10,7 @@
   "rotateSpeed": 3.6,
   "itemCapacity": 2147483647,
   "requirements": [
-    "copper/1"
+    "beryllium/1"
   ],
   "category": "production",
   "research": {
@@ -19,4 +19,4 @@
       "beryllium/1"
     ]
   }
-}
+}
